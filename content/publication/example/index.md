@@ -12,7 +12,7 @@ abstract: "In the present article, we use daily diary methodology to investigate
   longitudinal well-being. This work provides evidence of one mechanism by which
   coping affects well-being and is one of the first studies of these dynamics in
   Latinx samples. "
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -23,9 +23,7 @@ authors:
   - Dacher Keltner
 author_notes: []
 publication: ""
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: "*Emotion*"
@@ -38,8 +36,7 @@ subtitle: ""
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
