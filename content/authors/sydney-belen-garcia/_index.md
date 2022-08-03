@@ -21,4 +21,3 @@ email: sbgarcia@princeton.edu
 superuser: true
 highlight_name: true
 ---
-I am a social psychology PhD student at Princeton University. I work primarily with [Betsy Levy Paluck](http://www.betsylevypaluck.com/lab).
