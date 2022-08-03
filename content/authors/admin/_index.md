@@ -1,6 +1,7 @@
 ---
 title: Sydney Belen Garcia
 role: PhD Student at Princeton University
+avatar_filename: use.jpg
 bio: ""
 interests: []
 social:
