@@ -23,4 +23,4 @@ highlight_name: true
 ---
 I am a social psychology PhD student at Princeton University. I work primarily with [Betsy Levy Paluck](http://www.betsylevypaluck.com/lab).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/sydney-garcia-cv_may2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
