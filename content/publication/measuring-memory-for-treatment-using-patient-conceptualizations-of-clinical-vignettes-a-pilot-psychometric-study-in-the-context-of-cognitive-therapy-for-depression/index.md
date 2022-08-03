@@ -10,6 +10,7 @@ authors:
   - Ian M Richardson
   - admin
   - Allison G Harvey
+publication: Cognitive Therapy and Research
 abstract: >-
   Background
 
